@@ -79,3 +79,5 @@ I implemented a functional UI prototype using **React + Vite + Tailwind**, focus
 - Clear separation between “current report” and saved versions
 
 The prototype demonstrates how a relatively small UI change can significantly improve confidence and efficiency when working with AI-generated medical content.
+
+[See th deme here](https://ui-engineer-challenge-diagno-vet.vercel.app/)
